@@ -1,2 +1,3 @@
-# онлайн компилятор для запуска: https://www.jdoodle.com/online-java-compiler-ide
+онлайн компилятор для запуска: https://www.jdoodle.com/online-java-compiler 
+также нужно выбрать 11 версию.
 файлы не связаны. Каждое задание выполнено в отделаьном файле.
